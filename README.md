@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
