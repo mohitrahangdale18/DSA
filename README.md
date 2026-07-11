@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
