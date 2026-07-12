@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/mohitrahangdale18/DSA/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/mohitrahangdale18/DSA/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohitrahangdale18/DSA/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
