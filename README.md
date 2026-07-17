@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/mohitrahangdale18/DSA/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
