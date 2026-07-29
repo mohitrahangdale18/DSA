@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0416-partition-equal-subset-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohitrahangdale18/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/mohitrahangdale18/DSA/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohitrahangdale18/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
