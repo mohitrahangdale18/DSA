@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohitrahangdale18/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -19,20 +20,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitrahangdale18/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mohitrahangdale18/DSA/tree/master/1929-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
