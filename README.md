@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mohitrahangdale18/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitrahangdale18/DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/mohitrahangdale18/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohitrahangdale18/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
