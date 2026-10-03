@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mohitrahangdale18/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/mohitrahangdale18/DSA/tree/master/0518-coin-change-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mohitrahangdale18/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mohitrahangdale18/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohitrahangdale18/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/mohitrahangdale18/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohitrahangdale18/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mohitrahangdale18/DSA/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohitrahangdale18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -107,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohitrahangdale18/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/mohitrahangdale18/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
